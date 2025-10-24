@@ -11,6 +11,9 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Datasets](#datasets)
+- [Project Structure](#project-structure)
+- [Replace this .ENV vaiables with your own](#replace-this-env-vaiables-with-your-own)
 
 ## Features
 
