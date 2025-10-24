@@ -84,3 +84,10 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## Datasets
 
 I used `.csv` files for development test datasets all generated using AI.
+
+## Project Structure
+Below is a visual overview of the main project layout. The diagram excludes `app.py` and shows that most runtime tools query the central Elasticsearch datastore.
+
+![Project structure](project_structure.png)
+
+

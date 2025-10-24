@@ -14,7 +14,7 @@ client = Elasticsearch(
 index_name = "medical_services_professionals"
 
 
-def getHealthProffesionalByName(name: str) -> list:
+def getHealthProfessionalByName(name: str) -> list:
     retriever_object = {
         "rrf": {
             "retrievers": [
@@ -36,7 +36,7 @@ def getHealthProffesionalByName(name: str) -> list:
     return search_response["hits"]["hits"]
 
 
-def getHealthProffesionalByEmail(email: str) -> list:
+def getHealthProfessionalByEmail(email: str) -> list:
     retriever_object = {
         "rrf": {
             "retrievers": [
@@ -58,7 +58,7 @@ def getHealthProffesionalByEmail(email: str) -> list:
     return search_response["hits"]["hits"]
 
 
-def getHealthProffesionalHealthFacility(facility: str) -> list:
+def getHealthProfessionalHealthFacility(facility: str) -> list:
     retriever_object = {
         "rrf": {
             "retrievers": [
@@ -83,7 +83,7 @@ def getHealthProffesionalHealthFacility(facility: str) -> list:
     return search_response["hits"]["hits"]
 
 
-def getHealthProffesionalByQualifications(qualification: str) -> list:
+def getHealthProfessionalByQualifications(qualification: str) -> list:
     retriever_object = {
         "rrf": {
             "retrievers": [
@@ -108,7 +108,7 @@ def getHealthProffesionalByQualifications(qualification: str) -> list:
     return search_response["hits"]["hits"]
 
 
-def getHealthProffesionalBySpeciality(speciality: str) -> list:
+def getHealthProfessionalBySpeciality(speciality: str) -> list:
     retriever_object = {
         "rrf": {
             "retrievers": [

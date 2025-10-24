@@ -19,9 +19,12 @@ from Engine.AgentTools.findPharmaceuticals import (
     getPharmaceuticalFacilityOperationHours,
 )
 
-from Engine.AgentTools.findMedicalProffesionals import (
-    getHealthProffesionalByName,
-    getHealthProffesionalByEmail,
+from Engine.AgentTools.findMedicalProfessionals import (
+    getHealthProfessionalByName,
+    getHealthProfessionalByEmail,
+    getHealthProfessionalBySpeciality,
+    getHealthProfessionalByQualifications,
+    getHealthProfessionalHealthFacility,
 )
 
 from Engine.AgentTools.findDeliveryServices import (
@@ -98,6 +101,10 @@ root_agent = Agent(
         Healthcare Professional Services:
           - getHealthProffesionalByName: Find healthcare professionals by name
           - getHealthProffesionalByEmail: Contact healthcare professionals by email
+          - getHealthProffesionalBySpeciality: Search for professionals by specialty
+          - getHealthProffesionalByQualifications: Look up professionals by qualifications
+          - getHealthProffesionalHealthFacility: Find healthcare professionals at specific facilities
+
 
         Delivery Services:
           - getDeliveryAgentByName: Find delivery agents by name
@@ -180,8 +187,11 @@ root_agent = Agent(
         LongRunningFunctionTool(func=getPharmaceuticalMedsByName),
         LongRunningFunctionTool(func=getPharmaceuticalFacilityByLocation),
         LongRunningFunctionTool(func=getPharmaceuticalFacilityOperationHours),
-        LongRunningFunctionTool(func=getHealthProffesionalByName),
-        LongRunningFunctionTool(func=getHealthProffesionalByEmail),
+        LongRunningFunctionTool(func=getHealthProfessionalByName),
+        LongRunningFunctionTool(func=getHealthProfessionalByEmail),
+        LongRunningFunctionTool(func=getHealthProfessionalBySpeciality),
+        LongRunningFunctionTool(func=getHealthProfessionalByQualifications),
+        LongRunningFunctionTool(func=getHealthProfessionalHealthFacility),
         LongRunningFunctionTool(func=getDeliveryAgentByName),
         LongRunningFunctionTool(func=getDeliveryAgentByEmail),
         LongRunningFunctionTool(func=getDeliveryAgentByBikeReg),
