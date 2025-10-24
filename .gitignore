@@ -1,3 +1,3 @@
-MedPalEnv
-Engine/_pycache_
-**.json
+MedPalEnv/
+Engine/__pycache__/
+*.json
