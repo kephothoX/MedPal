@@ -13,7 +13,7 @@
 - [License](#license)
 - [Datasets](#datasets)
 - [Project Structure](#project-structure)
-- [Replace this .ENV vaiables with your own](#replace-this-env-vaiables-with-your-own)
+- [Replace this .ENV variables with your own](#replace-this-env-variables-with-your-own)
 
 ## Features
 
@@ -94,7 +94,7 @@ Below is a visual overview of the main project layout. The diagram excludes `app
 
 ![Project structure](project_structure.png)
 
-## Replace this .ENV vaiables with your own
+## Replace this .ENV variables with your own
 
 ```
 
