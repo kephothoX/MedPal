@@ -86,8 +86,28 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 I used `.csv` files for development test datasets all generated using AI.
 
 ## Project Structure
+
 Below is a visual overview of the main project layout. The diagram excludes `app.py` and shows that most runtime tools query the central Elasticsearch datastore.
 
 ![Project structure](project_structure.png)
 
+## Replace this .ENV vaiables with your own
 
+```
+
+ELASTIC_SEARCH_URL=<https://my-elasticsearch-project-ec5919.es.us-central1.gcp.elastic.cloud:443>
+GOOGLE_GENAI_USE_VERTEXAI=FALSE
+GOOGLE_API_KEY=
+GOOGLE_MAPS_API_KEY=
+MEDPALBOT_TOKEN=
+MEDPAL_API_KEY= (Your Elastic Search API Key)
+DEV_EMAIL=
+DEV_EMAIL_APP_PASSWORD=
+TWILIO_AUTH_TOKEN=
+TWILIO_ACCOUNT_SID=
+PRIVATE_KEY=0xd8a0d9893f1432b64ed9947a7c54787702269396a90d27d9b5123a06810f67d6
+ACCOUNT=0x93D85e536F81D49B781E317cd516C020f6d4363C
+INFURA_API_KEY=
+INFURA_ENDPOINT=<https://mainnet.infura.io/v3/>
+
+```
