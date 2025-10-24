@@ -1,0 +1,56 @@
+id,name,email,phone,location,bike_reg
+1,John Kamau,johnkamau@gmail.com,+254712345678,Nairobi CBD,KMDA 123B
+2,Sarah Wanjiku,sarahw@yahoo.com,+254723456789,Westlands,KMDB 234C
+3,Peter Omondi,pomondi@gmail.com,+254734567890,Kisumu Central,KMDC 345D
+4,Mary Akinyi,makinyi@hotmail.com,+254745678901,Mombasa Road,KMDD 456E
+5,James Kiprop,jkiprop@gmail.com,+254756789012,Eldoret,KMDE 567F
+6,Alice Muthoni,amuthoni@yahoo.com,+254767890123,Thika Road,KMDF 678G
+7,David Mutua,dmutua@gmail.com,+254778901234,Nakuru,KMDG 789H
+8,Grace Njeri,gnjeri@hotmail.com,+254789012345,Karen,KMDH 890I
+9,Michael Otieno,motieno@gmail.com,+254790123456,Kisii,KMDI 901J
+10,Elizabeth Wangari,ewangari@yahoo.com,+254701234567,Kiambu,KMDJ 012K
+11,Daniel Kimani,dkimani@gmail.com,+254712345679,Ngong Road,KMDK 123L
+12,Faith Adhiambo,fadhiambo@hotmail.com,+254723456780,Machakos,KMDL 234M
+13,Stephen Maina,smaina@gmail.com,+254734567891,Kitengela,KMDM 345N
+14,Lucy Wairimu,lwairimu@yahoo.com,+254745678902,Rongai,KMDN 456P
+15,George Njoroge,gnjoroge@gmail.com,+254756789013,Nyeri,KMDP 567Q
+16,Ann Mwangi,amwangi@hotmail.com,+254767890124,Kilimani,KMDQ 678R
+17,Paul Kariuki,pkariuki@gmail.com,+254778901235,Ruaka,KMDR 789S
+18,Jane Nyambura,jnyambura@yahoo.com,+254789012346,Limuru,KMDS 890T
+19,Samuel Ochieng,sochieng@gmail.com,+254790123457,Kakamega,KMDT 901U
+20,Rose Atieno,ratieno@hotmail.com,+254701234568,Kisumu,KMDU 012V
+21,Joseph Waweru,jwaweru@gmail.com,+254712345680,Embakasi,KMDV 123W
+22,Catherine Njoki,cnjoki@yahoo.com,+254723456781,South B,KMDW 234X
+23,Francis Gitau,fgitau@gmail.com,+254734567892,South C,KMDX 345Y
+24,Esther Wambui,ewambui@hotmail.com,+254745678903,Parklands,KMDY 456Z
+25,Charles Mwangi,cmwangi@gmail.com,+254756789014,Gigiri,KMDZ 567A
+26,Mercy Auma,mauma@yahoo.com,+254767890125,Langata,KMEA 678B
+27,Timothy Kiprono,tkiprono@gmail.com,+254778901236,Kericho,KMEB 789C
+28,Nancy Wangui,nwangui@hotmail.com,+254789012347,Buruburu,KMEC 890D
+29,Victor Owino,vowino@gmail.com,+254790123458,Umoja,KMED 901E
+30,Ruth Kemunto,rkemunto@yahoo.com,+254701234569,Donholm,KMEE 012F
+31,Benjamin Korir,bkorir@gmail.com,+254712345681,Kayole,KMEF 123G
+32,Joyce Moraa,jmoraa@hotmail.com,+254723456782,Pipeline,KMEG 234H
+33,Philip Njuguna,pnjuguna@gmail.com,+254734567893,Zimmerman,KMEH 345I
+34,Margaret Odhiambo,modhiambo@yahoo.com,+254745678904,Kasarani,KMEI 456J
+35,Eric Kipchoge,ekipchoge@gmail.com,+254756789015,Roysambu,KMEJ 567K
+36,Susan Mutheu,smutheu@hotmail.com,+254767890126,Kahawa West,KMEK 678L
+37,Dennis Ouma,douma@gmail.com,+254778901237,Ruiru,KMEL 789M
+38,Caroline Nyambane,cnyambane@yahoo.com,+254789012348,Juja,KMEM 890N
+39,Alex Mutiso,amutiso@gmail.com,+254790123459,Thika,KMEN 901P
+40,Beatrice Awuor,bawuor@hotmail.com,+254701234570,Mlolongo,KMEP 012Q
+41,Kevin Kimutai,kkimutai@gmail.com,+254712345682,Athi River,KMEQ 123R
+42,Irene Nafula,inafula@yahoo.com,+254723456783,Syokimau,KMER 234S
+43,Robert Macharia,rmacharia@gmail.com,+254734567894,Kikuyu,KMES 345T
+44,Patricia Akoth,pakoth@hotmail.com,+254745678905,Ongata Rongai,KMET 456U
+45,Brian Kipkemoi,bkipkemoi@gmail.com,+254756789016,Ngong,KMEU 567V
+46,Helen Musyoka,hmusyoka@yahoo.com,+254767890127,Karen,KMEV 678W
+47,Martin Odongo,modongo@gmail.com,+254778901238,Lavington,KMEW 789X
+48,Dorothy Nyamai,dnyamai@hotmail.com,+254789012349,Kilimani,KMEX 890Y
+49,Vincent Kibet,vkibet@gmail.com,+254790123460,Hurlingham,KMEY 901Z
+50,Christine Atieno,catieno@yahoo.com,+254701234571,Kileleshwa,KMEZ 012A
+51,Patrick Ndungu,pndungu@gmail.com,+254712345683,Runda,KMFA 123B
+52,Eunice Wanjala,ewanjala@hotmail.com,+254723456784,Muthaiga,KMFB 234C
+53,Gerald Mwenda,gmwenda@gmail.com,+254734567895,Spring Valley,KMFC 345D
+54,Lilian Achieng,lachieng@yahoo.com,+254745678906,Gigiri,KMFD 456E
+55,Wycliffe Oduor,wodor@gmail.com,+254756789017,Lavington,KMFE 567F

@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "Meru Health Supplies #1",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Paracetamol": 235,
+      "Amoxil": 170,
+      "Cough Syrup": 240,
+      "VitaminB": 199,
+      "VitaminC": 214
+    },
+    "payment": {
+      "M-Pesa": "0711367621",
+      "BankAccount": "443888146",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": 4.308443,
+      "longitude": 41.79378
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kakamega Pharmacy #2",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 122,
+      "Ibuprofen": 216,
+      "Panadol": 105,
+      "Paracetamol": 51,
+      "Pain Relief": 177
+    },
+    "payment": {
+      "M-Pesa": "0734091677",
+      "BankAccount": "558345052",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": 1.983974,
+      "longitude": 36.089256
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Eldoret Drug Store #3",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminC": 54,
+      "Pain Relief": 75,
+      "Panadol": 159,
+      "Cough Syrup": 200,
+      "Amoxil": 109
+    },
+    "payment": {
+      "M-Pesa": "0763095455",
+      "BankAccount": "199241800",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -3.297859,
+      "longitude": 41.212628
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Coastline Pharmacy #4",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Paracetamol": 241,
+      "Ibuprofen": 231,
+      "VitaminB": 79,
+      "Pain Relief": 228,
+      "Panadol": 121
+    },
+    "payment": {
+      "M-Pesa": "0749764362",
+      "BankAccount": "706949154",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": 3.802546,
+      "longitude": 35.335325
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nyeri Pharmacy #5",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminC": 107,
+      "Aspirin": 166,
+      "Pain Relief": 62,
+      "Ibuprofen": 236,
+      "Paracetamol": 98
+    },
+    "payment": {
+      "M-Pesa": "0785299763",
+      "BankAccount": "510307443",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": 1.304559,
+      "longitude": 35.367037
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Happy Health Chemist #6",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 173,
+      "Amoxil": 167,
+      "Ibuprofen": 135,
+      "VitaminC": 190,
+      "Aspirin": 53
+    },
+    "payment": {
+      "M-Pesa": "0755281425",
+      "BankAccount": "713911625",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": 2.416185,
+      "longitude": 41.546513
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kisumu Vital Pharmacy #7",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminC": 180,
+      "Cough Syrup": 49,
+      "VitaminB": 48,
+      "Paracetamol": 160,
+      "Aspirin": 99
+    },
+    "payment": {
+      "M-Pesa": "0737163696",
+      "BankAccount": "564826811",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": 3.994915,
+      "longitude": 38.914609
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Malindi Drug Store #8",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminB": 181,
+      "Cough Syrup": 235,
+      "Pain Relief": 107,
+      "Aspirin": 90,
+      "Paracetamol": 140
+    },
+    "payment": {
+      "M-Pesa": "0734989627",
+      "BankAccount": "585776747",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -0.862822,
+      "longitude": 34.718591
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Malindi Drug Store #9",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 43,
+      "VitaminB": 49,
+      "Cough Syrup": 170,
+      "Pain Relief": 183,
+      "Paracetamol": 220
+    },
+    "payment": {
+      "M-Pesa": "0758313492",
+      "BankAccount": "513164337",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": -1.405094,
+      "longitude": 39.755468
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nakuru Chemist #10",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Ibuprofen": 100,
+      "Aspirin": 107,
+      "VitaminB": 42,
+      "Panadol": 202,
+      "Amoxil": 111
+    },
+    "payment": {
+      "M-Pesa": "0753518059",
+      "BankAccount": "207808692",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": 2.072157,
+      "longitude": 37.981481
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nakuru Chemist #11",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 147,
+      "Panadol": 218,
+      "Ibuprofen": 95,
+      "Aspirin": 143,
+      "Pain Relief": 64
+    },
+    "payment": {
+      "M-Pesa": "0744959947",
+      "BankAccount": "730928328",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 2.036349,
+      "longitude": 36.297765
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Mombasa Meds #12",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Panadol": 158,
+      "Amoxil": 182,
+      "VitaminB": 91,
+      "Aspirin": 101,
+      "Cough Syrup": 149
+    },
+    "payment": {
+      "M-Pesa": "0750474446",
+      "BankAccount": "167754028",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": -4.523136,
+      "longitude": 38.145102
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Machakos Pharmacy #13",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 76,
+      "Ibuprofen": 130,
+      "VitaminC": 75,
+      "Panadol": 193,
+      "VitaminB": 176
+    },
+    "payment": {
+      "M-Pesa": "0743106917",
+      "BankAccount": "347667491",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": -4.179751,
+      "longitude": 41.852278
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Garissa Pharmacy #14",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 116,
+      "Amoxil": 79,
+      "Aspirin": 132,
+      "Cough Syrup": 176,
+      "VitaminC": 189
+    },
+    "payment": {
+      "M-Pesa": "0710314744",
+      "BankAccount": "912726578",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": -4.697352,
+      "longitude": 34.813457
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Meru Health Supplies #15",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 173,
+      "Panadol": 204,
+      "Cough Syrup": 116,
+      "VitaminC": 224,
+      "VitaminB": 69
+    },
+    "payment": {
+      "M-Pesa": "0760710713",
+      "BankAccount": "355515345",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": 4.479853,
+      "longitude": 39.78692
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Malindi Drug Store #16",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminB": 187,
+      "Paracetamol": 223,
+      "Ibuprofen": 175,
+      "VitaminC": 109,
+      "Amoxil": 194
+    },
+    "payment": {
+      "M-Pesa": "0739592331",
+      "BankAccount": "808196327",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": -0.735653,
+      "longitude": 39.325063
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "ChemiWell Pharmacy #17",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 151,
+      "Cough Syrup": 118,
+      "VitaminB": 191,
+      "VitaminC": 177,
+      "Pain Relief": 178
+    },
+    "payment": {
+      "M-Pesa": "0723910304",
+      "BankAccount": "587297450",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -4.082849,
+      "longitude": 39.122948
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "ChemiWell Pharmacy #18",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 96,
+      "Aspirin": 151,
+      "Ibuprofen": 181,
+      "Panadol": 173,
+      "VitaminC": 50
+    },
+    "payment": {
+      "M-Pesa": "0719056715",
+      "BankAccount": "675979807",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -3.334188,
+      "longitude": 36.799925
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Coastline Pharmacy #19",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 179,
+      "Ibuprofen": 200,
+      "Cough Syrup": 174,
+      "Panadol": 137,
+      "Pain Relief": 87
+    },
+    "payment": {
+      "M-Pesa": "0725331126",
+      "BankAccount": "152188427",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 3.969284,
+      "longitude": 39.774083
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Meru Health Supplies #20",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Paracetamol": 221,
+      "Amoxil": 230,
+      "Ibuprofen": 189,
+      "Aspirin": 128,
+      "VitaminC": 132
+    },
+    "payment": {
+      "M-Pesa": "0779767587",
+      "BankAccount": "311902374",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -3.374649,
+      "longitude": 37.949432
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Malindi Drug Store #21",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Paracetamol": 41,
+      "Aspirin": 77,
+      "Panadol": 60,
+      "Ibuprofen": 247,
+      "VitaminB": 44
+    },
+    "payment": {
+      "M-Pesa": "0761573098",
+      "BankAccount": "117129454",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": 3.292369,
+      "longitude": 40.78387
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Garissa Pharmacy #22",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Paracetamol": 169,
+      "Aspirin": 77,
+      "VitaminB": 41,
+      "Ibuprofen": 165,
+      "Cough Syrup": 143
+    },
+    "payment": {
+      "M-Pesa": "0787376811",
+      "BankAccount": "493974322",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": -4.259953,
+      "longitude": 35.194997
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Garissa Pharmacy #23",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminC": 122,
+      "Amoxil": 154,
+      "Panadol": 114,
+      "Ibuprofen": 171,
+      "Cough Syrup": 95
+    },
+    "payment": {
+      "M-Pesa": "0755283693",
+      "BankAccount": "890601018",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": 1.650427,
+      "longitude": 35.290358
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Busia Drug Store #24",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminB": 43,
+      "Panadol": 104,
+      "Paracetamol": 120,
+      "Pain Relief": 68,
+      "Cough Syrup": 249
+    },
+    "payment": {
+      "M-Pesa": "0793954603",
+      "BankAccount": "444025833",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": 4.038729,
+      "longitude": 40.751697
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Thika Meds #25",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminB": 167,
+      "Amoxil": 241,
+      "VitaminC": 133,
+      "Aspirin": 163,
+      "Pain Relief": 59
+    },
+    "payment": {
+      "M-Pesa": "0760482321",
+      "BankAccount": "825085660",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 1.997039,
+      "longitude": 34.436749
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Machakos Pharmacy #26",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 76,
+      "Ibuprofen": 216,
+      "Aspirin": 65,
+      "Amoxil": 41,
+      "Panadol": 108
+    },
+    "payment": {
+      "M-Pesa": "0730467778",
+      "BankAccount": "179091135",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": -3.605895,
+      "longitude": 34.19453
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kajiado Chemist #27",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 214,
+      "VitaminC": 70,
+      "Paracetamol": 61,
+      "VitaminB": 190,
+      "Panadol": 203
+    },
+    "payment": {
+      "M-Pesa": "0773331744",
+      "BankAccount": "252602170",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": 1.54356,
+      "longitude": 38.728584
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "ChemiWell Pharmacy #28",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 190,
+      "Ibuprofen": 58,
+      "Aspirin": 76,
+      "VitaminB": 165,
+      "Cough Syrup": 111
+    },
+    "payment": {
+      "M-Pesa": "0766450091",
+      "BankAccount": "770516412",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": -4.084294,
+      "longitude": 40.995703
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "ChemiWell Pharmacy #29",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Panadol": 246,
+      "VitaminC": 149,
+      "Ibuprofen": 175,
+      "Cough Syrup": 144,
+      "Aspirin": 154
+    },
+    "payment": {
+      "M-Pesa": "0744731755",
+      "BankAccount": "982194772",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 2.977958,
+      "longitude": 39.445187
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Mombasa Meds #30",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Panadol": 78,
+      "Ibuprofen": 189,
+      "VitaminC": 66,
+      "Cough Syrup": 56,
+      "Aspirin": 224
+    },
+    "payment": {
+      "M-Pesa": "0723090211",
+      "BankAccount": "807994483",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 1.049863,
+      "longitude": 39.092143
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Meru Health Supplies #31",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 146,
+      "Ibuprofen": 104,
+      "Amoxil": 86,
+      "VitaminB": 41,
+      "Panadol": 59
+    },
+    "payment": {
+      "M-Pesa": "0734371563",
+      "BankAccount": "443825386",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": -2.099711,
+      "longitude": 34.152277
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "ChemiWell Pharmacy #32",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Ibuprofen": 128,
+      "Aspirin": 103,
+      "Panadol": 110,
+      "Amoxil": 216,
+      "VitaminC": 131
+    },
+    "payment": {
+      "M-Pesa": "0735629505",
+      "BankAccount": "825426485",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": 2.598139,
+      "longitude": 35.608538
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Thika Meds #33",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Panadol": 103,
+      "VitaminB": 58,
+      "Paracetamol": 236,
+      "Pain Relief": 179,
+      "Ibuprofen": 180
+    },
+    "payment": {
+      "M-Pesa": "0752322019",
+      "BankAccount": "127809922",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 3.195739,
+      "longitude": 36.996856
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kajiado Chemist #34",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Paracetamol": 117,
+      "Amoxil": 84,
+      "VitaminB": 107,
+      "Ibuprofen": 204,
+      "VitaminC": 250
+    },
+    "payment": {
+      "M-Pesa": "0755184400",
+      "BankAccount": "756111755",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 0.163749,
+      "longitude": 35.437079
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Thika Meds #35",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Panadol": 117,
+      "Pain Relief": 145,
+      "Paracetamol": 113,
+      "VitaminC": 52,
+      "Ibuprofen": 210
+    },
+    "payment": {
+      "M-Pesa": "0779511477",
+      "BankAccount": "828688637",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": -3.61068,
+      "longitude": 40.073635
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "ChemiWell Pharmacy #36",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 168,
+      "Cough Syrup": 227,
+      "VitaminC": 58,
+      "Pain Relief": 99,
+      "Panadol": 93
+    },
+    "payment": {
+      "M-Pesa": "0756315765",
+      "BankAccount": "357559829",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": 2.971704,
+      "longitude": 38.453567
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nairobi Care Pharmacy #37",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 76,
+      "VitaminC": 124,
+      "Aspirin": 247,
+      "Paracetamol": 95,
+      "Amoxil": 122
+    },
+    "payment": {
+      "M-Pesa": "0749847805",
+      "BankAccount": "712798853",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": 3.877312,
+      "longitude": 40.568002
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Embu Health Store #38",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 244,
+      "Cough Syrup": 71,
+      "VitaminB": 218,
+      "Paracetamol": 180,
+      "Panadol": 41
+    },
+    "payment": {
+      "M-Pesa": "0754909568",
+      "BankAccount": "109927704",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": 2.225109,
+      "longitude": 36.606213
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nairobi Care Pharmacy #39",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Panadol": 46,
+      "Amoxil": 45,
+      "Paracetamol": 204,
+      "Pain Relief": 131,
+      "Aspirin": 91
+    },
+    "payment": {
+      "M-Pesa": "0790506313",
+      "BankAccount": "387399981",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": 0.538334,
+      "longitude": 38.375385
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kakamega Pharmacy #40",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminC": 88,
+      "Panadol": 67,
+      "VitaminB": 164,
+      "Paracetamol": 93,
+      "Aspirin": 105
+    },
+    "payment": {
+      "M-Pesa": "0720628908",
+      "BankAccount": "128857511",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": -4.597675,
+      "longitude": 38.892955
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Happy Health Chemist #41",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 226,
+      "Aspirin": 123,
+      "VitaminC": 187,
+      "Paracetamol": 109,
+      "Panadol": 169
+    },
+    "payment": {
+      "M-Pesa": "0756092955",
+      "BankAccount": "209057970",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": 0.164808,
+      "longitude": 41.733604
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Happy Health Chemist #42",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 125,
+      "Pain Relief": 191,
+      "VitaminB": 173,
+      "Panadol": 81,
+      "Cough Syrup": 83
+    },
+    "payment": {
+      "M-Pesa": "0757989381",
+      "BankAccount": "152852534",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": -1.55762,
+      "longitude": 35.73358
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nairobi Care Pharmacy #43",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Ibuprofen": 227,
+      "Cough Syrup": 105,
+      "Panadol": 42,
+      "VitaminC": 203,
+      "Aspirin": 225
+    },
+    "payment": {
+      "M-Pesa": "0775191732",
+      "BankAccount": "158491913",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": -3.349023,
+      "longitude": 41.432446
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nakuru Chemist #44",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Ibuprofen": 76,
+      "Panadol": 209,
+      "Aspirin": 208,
+      "Amoxil": 72,
+      "VitaminC": 242
+    },
+    "payment": {
+      "M-Pesa": "0767569541",
+      "BankAccount": "798626818",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": -0.46837,
+      "longitude": 33.935288
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Coastline Pharmacy #45",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Ibuprofen": 154,
+      "VitaminB": 173,
+      "VitaminC": 135,
+      "Pain Relief": 161,
+      "Cough Syrup": 51
+    },
+    "payment": {
+      "M-Pesa": "0762837168",
+      "BankAccount": "972678788",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": -3.94477,
+      "longitude": 35.280421
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Eldoret Drug Store #46",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 169,
+      "Cough Syrup": 43,
+      "Paracetamol": 83,
+      "Panadol": 112,
+      "Ibuprofen": 204
+    },
+    "payment": {
+      "M-Pesa": "0742198234",
+      "BankAccount": "138326062",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": -4.459834,
+      "longitude": 35.735498
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nyeri Pharmacy #47",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 244,
+      "VitaminB": 73,
+      "Paracetamol": 208,
+      "VitaminC": 91,
+      "Panadol": 161
+    },
+    "payment": {
+      "M-Pesa": "0776235496",
+      "BankAccount": "110768643",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -1.969123,
+      "longitude": 35.791677
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Coastline Pharmacy #48",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Panadol": 176,
+      "Ibuprofen": 244,
+      "VitaminB": 227,
+      "Aspirin": 133,
+      "Cough Syrup": 186
+    },
+    "payment": {
+      "M-Pesa": "0774964408",
+      "BankAccount": "177200897",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": -0.019787,
+      "longitude": 39.349595
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nyeri Pharmacy #49",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 120,
+      "VitaminC": 160,
+      "VitaminB": 169,
+      "Ibuprofen": 191,
+      "Pain Relief": 213
+    },
+    "payment": {
+      "M-Pesa": "0799692967",
+      "BankAccount": "822835497",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": -2.033707,
+      "longitude": 33.856194
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Thika Meds #50",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 158,
+      "Amoxil": 128,
+      "VitaminC": 49,
+      "Pain Relief": 171,
+      "Cough Syrup": 168
+    },
+    "payment": {
+      "M-Pesa": "0719677115",
+      "BankAccount": "610295063",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 4.418942,
+      "longitude": 41.369547
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nairobi Care Pharmacy #51",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 94,
+      "Panadol": 129,
+      "Paracetamol": 78,
+      "Pain Relief": 104,
+      "Amoxil": 54
+    },
+    "payment": {
+      "M-Pesa": "0721812913",
+      "BankAccount": "903705892",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": 1.209164,
+      "longitude": 34.050289
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kakamega Pharmacy #52",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 82,
+      "Pain Relief": 133,
+      "VitaminC": 149,
+      "VitaminB": 200,
+      "Paracetamol": 193
+    },
+    "payment": {
+      "M-Pesa": "0718525729",
+      "BankAccount": "376798978",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": 0.075988,
+      "longitude": 40.407829
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nyeri Pharmacy #53",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 56,
+      "Cough Syrup": 210,
+      "Panadol": 197,
+      "Pain Relief": 123,
+      "Ibuprofen": 127
+    },
+    "payment": {
+      "M-Pesa": "0790312680",
+      "BankAccount": "437206500",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 2.529318,
+      "longitude": 33.869943
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kakamega Pharmacy #54",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminC": 67,
+      "Pain Relief": 130,
+      "Paracetamol": 202,
+      "Amoxil": 218,
+      "Cough Syrup": 159
+    },
+    "payment": {
+      "M-Pesa": "0779688997",
+      "BankAccount": "478881086",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": 3.918355,
+      "longitude": 40.814414
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Machakos Pharmacy #55",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 90,
+      "Amoxil": 43,
+      "Ibuprofen": 225,
+      "Pain Relief": 198,
+      "Panadol": 86
+    },
+    "payment": {
+      "M-Pesa": "0710140203",
+      "BankAccount": "402947828",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": 1.718287,
+      "longitude": 37.797484
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nyeri Pharmacy #56",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminB": 47,
+      "Ibuprofen": 94,
+      "Paracetamol": 137,
+      "VitaminC": 117,
+      "Amoxil": 156
+    },
+    "payment": {
+      "M-Pesa": "0744019724",
+      "BankAccount": "815087036",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": -0.697309,
+      "longitude": 41.813067
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kitale Meds #57",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Panadol": 105,
+      "Pain Relief": 123,
+      "Aspirin": 242,
+      "Ibuprofen": 112,
+      "Paracetamol": 69
+    },
+    "payment": {
+      "M-Pesa": "0727421518",
+      "BankAccount": "430620120",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": -3.063667,
+      "longitude": 41.331267
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nyeri Pharmacy #58",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 167,
+      "VitaminB": 188,
+      "Pain Relief": 136,
+      "Ibuprofen": 241,
+      "VitaminC": 187
+    },
+    "payment": {
+      "M-Pesa": "0743326643",
+      "BankAccount": "691233651",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -2.498459,
+      "longitude": 41.192437
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kisumu Vital Pharmacy #59",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 50,
+      "VitaminC": 68,
+      "Aspirin": 101,
+      "Paracetamol": 137,
+      "Pain Relief": 84
+    },
+    "payment": {
+      "M-Pesa": "0735669933",
+      "BankAccount": "527132683",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": 1.166269,
+      "longitude": 39.143961
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nairobi Care Pharmacy #60",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminC": 153,
+      "Cough Syrup": 192,
+      "Aspirin": 125,
+      "Paracetamol": 157,
+      "Pain Relief": 232
+    },
+    "payment": {
+      "M-Pesa": "0754028776",
+      "BankAccount": "323682108",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -2.476906,
+      "longitude": 39.082175
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Thika Meds #61",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Ibuprofen": 40,
+      "Panadol": 196,
+      "Amoxil": 56,
+      "Cough Syrup": 119,
+      "Pain Relief": 45
+    },
+    "payment": {
+      "M-Pesa": "0796113376",
+      "BankAccount": "965339598",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 0.715561,
+      "longitude": 39.403094
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "ChemiWell Pharmacy #62",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 123,
+      "Pain Relief": 129,
+      "Paracetamol": 229,
+      "VitaminC": 67,
+      "Panadol": 62
+    },
+    "payment": {
+      "M-Pesa": "0731647550",
+      "BankAccount": "599669063",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": 1.325589,
+      "longitude": 34.811623
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Garissa Pharmacy #63",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 199,
+      "Ibuprofen": 96,
+      "VitaminC": 83,
+      "Cough Syrup": 53,
+      "VitaminB": 147
+    },
+    "payment": {
+      "M-Pesa": "0778471781",
+      "BankAccount": "371965250",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -2.405981,
+      "longitude": 34.96981
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Malindi Drug Store #64",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Panadol": 88,
+      "Ibuprofen": 223,
+      "Paracetamol": 86,
+      "Cough Syrup": 226,
+      "VitaminC": 229
+    },
+    "payment": {
+      "M-Pesa": "0755264622",
+      "BankAccount": "900358044",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 1.385943,
+      "longitude": 34.601076
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Malindi Drug Store #65",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Panadol": 170,
+      "Pain Relief": 179,
+      "VitaminB": 222,
+      "Aspirin": 119,
+      "Ibuprofen": 49
+    },
+    "payment": {
+      "M-Pesa": "0735142756",
+      "BankAccount": "766655637",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -0.455103,
+      "longitude": 41.763586
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nyeri Pharmacy #66",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 56,
+      "Paracetamol": 94,
+      "Cough Syrup": 214,
+      "VitaminC": 232,
+      "VitaminB": 57
+    },
+    "payment": {
+      "M-Pesa": "0722246728",
+      "BankAccount": "538527360",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": -3.580728,
+      "longitude": 34.180476
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nakuru Chemist #67",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 181,
+      "Paracetamol": 95,
+      "Ibuprofen": 177,
+      "Panadol": 220,
+      "VitaminC": 110
+    },
+    "payment": {
+      "M-Pesa": "0712610972",
+      "BankAccount": "520841884",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -4.284985,
+      "longitude": 38.522955
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Malindi Drug Store #68",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 211,
+      "Cough Syrup": 45,
+      "Paracetamol": 154,
+      "Ibuprofen": 217,
+      "VitaminC": 135
+    },
+    "payment": {
+      "M-Pesa": "0786364172",
+      "BankAccount": "159929404",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": 0.350292,
+      "longitude": 40.277105
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kajiado Chemist #69",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 101,
+      "Pain Relief": 249,
+      "VitaminC": 115,
+      "VitaminB": 197,
+      "Cough Syrup": 227
+    },
+    "payment": {
+      "M-Pesa": "0778394438",
+      "BankAccount": "415445252",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": -0.996157,
+      "longitude": 37.094138
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "ChemiWell Pharmacy #70",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminB": 240,
+      "VitaminC": 188,
+      "Ibuprofen": 122,
+      "Amoxil": 174,
+      "Aspirin": 226
+    },
+    "payment": {
+      "M-Pesa": "0714937226",
+      "BankAccount": "158782057",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 1.182761,
+      "longitude": 35.443602
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Mombasa Meds #71",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 41,
+      "VitaminB": 75,
+      "Cough Syrup": 159,
+      "Ibuprofen": 94,
+      "Panadol": 204
+    },
+    "payment": {
+      "M-Pesa": "0796598367",
+      "BankAccount": "705386377",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": -0.143137,
+      "longitude": 40.048727
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nakuru Chemist #72",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 121,
+      "Amoxil": 239,
+      "Pain Relief": 217,
+      "Panadol": 88,
+      "Ibuprofen": 192
+    },
+    "payment": {
+      "M-Pesa": "0750495900",
+      "BankAccount": "651704472",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": -1.004912,
+      "longitude": 35.404623
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kakamega Pharmacy #73",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 82,
+      "VitaminC": 162,
+      "Panadol": 172,
+      "Pain Relief": 145,
+      "Amoxil": 40
+    },
+    "payment": {
+      "M-Pesa": "0717470481",
+      "BankAccount": "333399595",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -2.30267,
+      "longitude": 38.810886
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Meru Health Supplies #74",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Ibuprofen": 117,
+      "Paracetamol": 223,
+      "Cough Syrup": 91,
+      "VitaminB": 244,
+      "VitaminC": 154
+    },
+    "payment": {
+      "M-Pesa": "0744929586",
+      "BankAccount": "750439054",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": 1.83064,
+      "longitude": 37.848424
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Busia Drug Store #75",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Ibuprofen": 62,
+      "Pain Relief": 121,
+      "Amoxil": 90,
+      "VitaminC": 65,
+      "Cough Syrup": 71
+    },
+    "payment": {
+      "M-Pesa": "0721564096",
+      "BankAccount": "554761610",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": 0.423302,
+      "longitude": 35.199928
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kajiado Chemist #76",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 147,
+      "VitaminB": 71,
+      "Paracetamol": 142,
+      "Aspirin": 222,
+      "VitaminC": 136
+    },
+    "payment": {
+      "M-Pesa": "0754508884",
+      "BankAccount": "697015904",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -2.639903,
+      "longitude": 37.04781
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Garissa Pharmacy #77",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 70,
+      "VitaminB": 231,
+      "Pain Relief": 216,
+      "Aspirin": 99,
+      "Ibuprofen": 134
+    },
+    "payment": {
+      "M-Pesa": "0711098502",
+      "BankAccount": "663335378",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": 3.101393,
+      "longitude": 34.827667
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Kitale Meds #78",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 65,
+      "Amoxil": 72,
+      "Panadol": 223,
+      "Paracetamol": 146,
+      "VitaminC": 161
+    },
+    "payment": {
+      "M-Pesa": "0754345862",
+      "BankAccount": "660478236",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": 0.350176,
+      "longitude": 39.349865
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Coastline Pharmacy #79",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Ibuprofen": 164,
+      "VitaminC": 179,
+      "Cough Syrup": 112,
+      "Aspirin": 196,
+      "Paracetamol": 183
+    },
+    "payment": {
+      "M-Pesa": "0751521693",
+      "BankAccount": "562756975",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": -0.893779,
+      "longitude": 40.215758
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Garissa Pharmacy #80",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Paracetamol": 91,
+      "Aspirin": 118,
+      "Pain Relief": 50,
+      "Panadol": 187,
+      "VitaminC": 143
+    },
+    "payment": {
+      "M-Pesa": "0791581762",
+      "BankAccount": "215671040",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": 3.9285,
+      "longitude": 40.416508
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nyeri Pharmacy #81",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Paracetamol": 76,
+      "Ibuprofen": 180,
+      "Cough Syrup": 87,
+      "Panadol": 167,
+      "Aspirin": 220
+    },
+    "payment": {
+      "M-Pesa": "0727993039",
+      "BankAccount": "569055991",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": -0.138899,
+      "longitude": 33.847727
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Thika Meds #82",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 191,
+      "Paracetamol": 201,
+      "Cough Syrup": 73,
+      "VitaminB": 184,
+      "Aspirin": 224
+    },
+    "payment": {
+      "M-Pesa": "0787659196",
+      "BankAccount": "436906548",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -1.545815,
+      "longitude": 38.309942
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Coastline Pharmacy #83",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 150,
+      "Amoxil": 77,
+      "Panadol": 237,
+      "Ibuprofen": 131,
+      "VitaminC": 80
+    },
+    "payment": {
+      "M-Pesa": "0743576041",
+      "BankAccount": "674179238",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": 4.27681,
+      "longitude": 39.22248
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Busia Drug Store #84",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 77,
+      "Panadol": 222,
+      "Amoxil": 57,
+      "Ibuprofen": 40,
+      "Paracetamol": 105
+    },
+    "payment": {
+      "M-Pesa": "0752805996",
+      "BankAccount": "521019701",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 4.104147,
+      "longitude": 35.135261
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Mombasa Meds #85",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 235,
+      "Paracetamol": 134,
+      "VitaminC": 229,
+      "Ibuprofen": 59,
+      "Cough Syrup": 209
+    },
+    "payment": {
+      "M-Pesa": "0712932416",
+      "BankAccount": "581306791",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 2.548314,
+      "longitude": 39.760987
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Garissa Pharmacy #86",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 144,
+      "Aspirin": 220,
+      "Cough Syrup": 200,
+      "Ibuprofen": 211,
+      "VitaminC": 50
+    },
+    "payment": {
+      "M-Pesa": "0743907539",
+      "BankAccount": "249260519",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": 2.461591,
+      "longitude": 39.062839
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Machakos Pharmacy #87",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Panadol": 201,
+      "Cough Syrup": 206,
+      "Ibuprofen": 110,
+      "Paracetamol": 142,
+      "VitaminC": 191
+    },
+    "payment": {
+      "M-Pesa": "0792233037",
+      "BankAccount": "491267958",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": -3.676972,
+      "longitude": 34.237132
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Happy Health Chemist #88",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 47,
+      "VitaminB": 140,
+      "Cough Syrup": 186,
+      "Panadol": 224,
+      "VitaminC": 191
+    },
+    "payment": {
+      "M-Pesa": "0729676665",
+      "BankAccount": "473674926",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": -3.813232,
+      "longitude": 36.521113
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nakuru Chemist #89",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Ibuprofen": 82,
+      "Aspirin": 123,
+      "Pain Relief": 226,
+      "VitaminC": 235,
+      "Paracetamol": 120
+    },
+    "payment": {
+      "M-Pesa": "0786233370",
+      "BankAccount": "227265834",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": -2.05872,
+      "longitude": 36.19023
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nairobi Care Pharmacy #90",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Pain Relief": 91,
+      "VitaminB": 188,
+      "Cough Syrup": 98,
+      "Ibuprofen": 170,
+      "Paracetamol": 114
+    },
+    "payment": {
+      "M-Pesa": "0763726960",
+      "BankAccount": "792731829",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 3.414381,
+      "longitude": 37.566398
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Busia Drug Store #91",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminB": 224,
+      "Amoxil": 168,
+      "VitaminC": 126,
+      "Pain Relief": 212,
+      "Ibuprofen": 56
+    },
+    "payment": {
+      "M-Pesa": "0715262150",
+      "BankAccount": "118266985",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": -1.316874,
+      "longitude": 38.666795
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Baringo Meds #92",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 217,
+      "Aspirin": 175,
+      "Cough Syrup": 151,
+      "Paracetamol": 124,
+      "Ibuprofen": 129
+    },
+    "payment": {
+      "M-Pesa": "0751653204",
+      "BankAccount": "831535673",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "8:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": -0.194813,
+      "longitude": 41.834598
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nyeri Pharmacy #93",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 90,
+      "Amoxil": 241,
+      "VitaminB": 229,
+      "Paracetamol": 87,
+      "Pain Relief": 199
+    },
+    "payment": {
+      "M-Pesa": "0791635067",
+      "BankAccount": "761363626",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": -2.914569,
+      "longitude": 39.254665
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Eldoret Drug Store #94",
+    "phonenumber": "0782555222",
+    "meds": {
+      "VitaminC": 150,
+      "Panadol": 217,
+      "Ibuprofen": 74,
+      "Pain Relief": 242,
+      "Amoxil": 65
+    },
+    "payment": {
+      "M-Pesa": "0743257678",
+      "BankAccount": "354785363",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": -2.42342,
+      "longitude": 38.786655
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Busia Drug Store #95",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 114,
+      "Cough Syrup": 50,
+      "Aspirin": 105,
+      "Ibuprofen": 47,
+      "VitaminB": 138
+    },
+    "payment": {
+      "M-Pesa": "0716753533",
+      "BankAccount": "313160341",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "21:00"
+    },
+    "location": {
+      "latitude": 4.045397,
+      "longitude": 37.946621
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Nairobi Care Pharmacy #96",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 105,
+      "Amoxil": 236,
+      "Cough Syrup": 120,
+      "Paracetamol": 53,
+      "Pain Relief": 202
+    },
+    "payment": {
+      "M-Pesa": "0721934081",
+      "BankAccount": "193332066",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": 3.588053,
+      "longitude": 38.989375
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Malindi Drug Store #97",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Aspirin": 215,
+      "Cough Syrup": 169,
+      "Amoxil": 51,
+      "Panadol": 181,
+      "Paracetamol": 204
+    },
+    "payment": {
+      "M-Pesa": "0723489659",
+      "BankAccount": "481828641",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "19:00"
+    },
+    "location": {
+      "latitude": -1.509119,
+      "longitude": 40.953292
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Malindi Drug Store #98",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Ibuprofen": 92,
+      "Aspirin": 170,
+      "VitaminC": 111,
+      "Panadol": 169,
+      "Pain Relief": 221
+    },
+    "payment": {
+      "M-Pesa": "0785777752",
+      "BankAccount": "937792667",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "6:00",
+      "close": "18:00"
+    },
+    "location": {
+      "latitude": 2.940843,
+      "longitude": 37.713766
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Thika Meds #99",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Cough Syrup": 79,
+      "Pain Relief": 68,
+      "Ibuprofen": 199,
+      "Amoxil": 47,
+      "VitaminC": 106
+    },
+    "payment": {
+      "M-Pesa": "0737711557",
+      "BankAccount": "723984853",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "9:00",
+      "close": "20:00"
+    },
+    "location": {
+      "latitude": 2.359769,
+      "longitude": 37.971543
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  },
+  {
+    "name": "Coastline Pharmacy #100",
+    "phonenumber": "0782555222",
+    "meds": {
+      "Amoxil": 188,
+      "VitaminC": 238,
+      "Cough Syrup": 106,
+      "Ibuprofen": 226,
+      "VitaminB": 157
+    },
+    "payment": {
+      "M-Pesa": "0790787136",
+      "BankAccount": "497486887",
+      "Cash": "Accepted"
+    },
+    "hours": {
+      "open": "7:00",
+      "close": "22:00"
+    },
+    "location": {
+      "latitude": -0.633253,
+      "longitude": 36.851732
+    },
+    "web3_address": "0xb0a1d1ad219086d0902fe0411a22f5cf5f61ede4"
+  }
+]
